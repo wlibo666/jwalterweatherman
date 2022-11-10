@@ -48,7 +48,7 @@ standard usage. Eg.
 
 ```go
     import (
-        jww "github.com/spf13/jwalterweatherman"
+        jww "github.com/wlibo666/jwalterweatherman"
     )
 
     ...
@@ -113,7 +113,7 @@ verbosity.
 
 ```go
     import (
-        jww "github.com/spf13/jwalterweatherman"
+        jww "github.com/wlibo666/jwalterweatherman"
     )
 
     if Verbose {
